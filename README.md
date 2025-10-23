@@ -23,18 +23,8 @@ This project helps automate cold emailing to HRs and recruiters using **Gmail SM
 
 ##  Folder Structure
 
-Cold_Email_Pipeline/
-├── send_emails.py
-├── Data/
-│   ├── recipients_list.csv
-│   ├── sent_log.csv
-│   └── failed_emails.csv
-├── Templates/
-│   ├── email_template_v1.txt
-│   └── follow_up_template.txt
-└── Assets/
-    └── Atharva.Resume.pdf
-    
+<img width="377" height="318" alt="Screenshot 2025-10-23 012056" src="https://github.com/user-attachments/assets/6bee85e1-8056-4b55-afdb-08c1a0e4497c" />
+
 ---
 
 ##  Usage
