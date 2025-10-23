@@ -1,4 +1,4 @@
-#  Autobiotic Cold Email Pipeline
+#  Automated Cold Email Pipeline
 
 Automate your job outreach with Python — send **personalized cold emails**, attach resumes, and track every attempt automatically.
 
