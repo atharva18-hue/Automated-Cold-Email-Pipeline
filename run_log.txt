@@ -1,0 +1,97 @@
+2025-10-22 22:19:01.561695 - 
+--------------------------------------------------
+2025-10-22 22:19:01.562589 - [DEBUG] Script started.
+2025-10-22 22:19:01.563375 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-22 22:19:01.565196 - [DEBUG] Template loaded successfully.
+2025-10-22 22:19:01.565957 - [DEBUG] Loaded 0 recipients.
+2025-10-22 22:31:19.644122 - 
+--------------------------------------------------
+2025-10-22 22:31:19.645839 - [DEBUG] Script started.
+2025-10-22 22:31:19.647489 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-22 22:31:19.679141 - [DEBUG] Template loaded successfully.
+2025-10-22 22:31:19.682384 - [DEBUG] Loaded 0 recipients.
+2025-10-22 22:31:23.807517 - [DEBUG] SMTP login successful.
+2025-10-22 22:31:24.210823 - ✅ Pipeline complete.
+2025-10-22 22:31:24.211729 - Total: 0 | Sent: 0 | Failed: 0
+2025-10-22 22:33:15.095018 - 
+--------------------------------------------------
+2025-10-22 22:33:15.095710 - [DEBUG] Script started.
+2025-10-22 22:33:15.096565 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-22 22:33:15.098234 - [DEBUG] Template loaded successfully.
+2025-10-22 22:33:15.132134 - [DEBUG] Loaded 3 recipients.
+2025-10-22 22:33:18.795421 - [DEBUG] SMTP login successful.
+2025-10-22 22:33:18.796683 - [INVALID] Skipping: 
+2025-10-22 22:33:18.810499 - [DEBUG] Waiting 19s before next email...
+2025-10-22 22:33:37.812211 - [INVALID] Skipping: 
+2025-10-22 22:33:37.814995 - [DEBUG] Waiting 23s before next email...
+2025-10-22 22:34:00.818729 - [INVALID] Skipping: 
+2025-10-22 22:34:00.821959 - [DEBUG] Waiting 11s before next email...
+2025-10-22 22:34:12.161008 - [EXPORT] Failed/Invalid emails saved to C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Data\failed_emails.csv
+2025-10-22 22:34:12.163291 - ✅ Pipeline complete.
+2025-10-22 22:34:12.165425 - Total: 3 | Sent: 0 | Failed: 3
+2025-10-22 22:36:15.586572 - 
+--------------------------------------------------
+2025-10-22 22:36:15.587703 - [DEBUG] Script started.
+2025-10-22 22:36:15.589518 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-22 22:36:15.591004 - [DEBUG] Template loaded successfully.
+2025-10-22 22:36:15.613663 - [DEBUG] Loaded 1 recipients.
+2025-10-22 22:36:19.552109 - [DEBUG] SMTP login successful.
+2025-10-22 22:36:19.554083 - [INVALID] Skipping: 
+2025-10-22 22:36:19.558476 - [DEBUG] Waiting 21s before next email...
+2025-10-22 22:36:40.936681 - [EXPORT] Failed/Invalid emails saved to C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Data\failed_emails.csv
+2025-10-22 22:36:40.938572 - ✅ Pipeline complete.
+2025-10-22 22:36:40.940439 - Total: 1 | Sent: 0 | Failed: 1
+2025-10-22 22:39:09.891483 - 
+--------------------------------------------------
+2025-10-22 22:39:09.892391 - [DEBUG] Script started.
+2025-10-22 22:39:09.893123 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-22 22:39:09.922149 - ERROR: Template must start with 'Subject: ...'
+2025-10-22 22:39:09.923033 - [FATAL] Template load failed.
+2025-10-22 22:40:34.521118 - 
+--------------------------------------------------
+2025-10-22 22:40:34.522520 - [DEBUG] Script started.
+2025-10-22 22:40:34.524301 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-22 22:40:34.546394 - [DEBUG] Template loaded successfully.
+2025-10-22 22:40:34.568022 - [DEBUG] Loaded 1 recipients.
+2025-10-22 22:40:38.275272 - [DEBUG] SMTP login successful.
+2025-10-22 22:40:38.277794 - [INVALID] Skipping: 
+2025-10-22 22:40:38.283549 - [DEBUG] Waiting 24s before next email...
+2025-10-22 22:41:02.669115 - [EXPORT] Failed/Invalid emails saved to C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Data\failed_emails.csv
+2025-10-22 22:41:02.670065 - ✅ Pipeline complete.
+2025-10-22 22:41:02.671404 - Total: 1 | Sent: 0 | Failed: 1
+2025-10-22 22:43:59.343535 - 
+--------------------------------------------------
+2025-10-22 22:43:59.344639 - [DEBUG] Script started.
+2025-10-22 22:43:59.346196 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-22 22:43:59.347933 - [DEBUG] Template loaded successfully.
+2025-10-22 22:43:59.377392 - [DEBUG] Loaded 1 recipients.
+2025-10-22 22:44:03.247717 - [DEBUG] SMTP login successful.
+2025-10-22 22:44:03.249972 - [INVALID] Skipping: 
+2025-10-22 22:44:03.254229 - [DEBUG] Waiting 11s before next email...
+2025-10-22 22:44:14.681377 - [EXPORT] Failed/Invalid emails saved to C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Data\failed_emails.csv
+2025-10-22 22:44:14.682863 - ✅ Pipeline complete.
+2025-10-22 22:44:14.684578 - Total: 1 | Sent: 0 | Failed: 1
+2025-10-22 22:46:46.126875 - 
+--------------------------------------------------
+2025-10-22 22:46:46.127837 - [DEBUG] Script started.
+2025-10-22 22:46:46.128617 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-22 22:46:46.132798 - [DEBUG] Template loaded successfully.
+2025-10-22 22:46:46.136866 - [DEBUG] Loaded 1 recipients.
+2025-10-22 22:46:50.214701 - [DEBUG] SMTP login successful.
+2025-10-22 22:46:50.216625 - [INVALID] Skipping: 
+2025-10-22 22:46:50.221117 - [DEBUG] Waiting 22s before next email...
+2025-10-22 22:47:12.474964 - [EXPORT] Failed/Invalid emails saved to C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Data\failed_emails.csv
+2025-10-22 22:47:12.476256 - ✅ Pipeline complete.
+2025-10-22 22:47:12.478056 - Total: 1 | Sent: 0 | Failed: 1
+2025-10-23 00:56:04.543074 - 
+--------------------------------------------------
+2025-10-23 00:56:04.543776 - [DEBUG] Script started.
+2025-10-23 00:56:04.544366 - [DEBUG] Loading template from C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Templates\email_template_v1.txt...
+2025-10-23 00:56:04.548690 - [DEBUG] Template loaded successfully.
+2025-10-23 00:56:04.563968 - [DEBUG] Loaded 1 recipients.
+2025-10-23 00:56:08.497808 - [DEBUG] SMTP login successful.
+2025-10-23 00:56:08.499686 - [INVALID] Skipping: 
+2025-10-23 00:56:08.504668 - [DEBUG] Waiting 23s before next email...
+2025-10-23 00:56:31.863099 - [EXPORT] Failed/Invalid emails saved to C:\Users\HP\Downloads\Cold_Email_Pipelinee-main\Cold_Email_Pipelinee-main\Data\failed_emails.csv
+2025-10-23 00:56:31.864295 - ✅ Pipeline complete.
+2025-10-23 00:56:31.865836 - Total: 1 | Sent: 0 | Failed: 1

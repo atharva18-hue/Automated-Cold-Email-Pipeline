@@ -1,0 +1,8 @@
+Subject: Test Email from Cold Email Pipeline
+
+Hi {name},
+
+This is a test email from my Cold Email Pipeline.
+
+Regards,
+Atharva
