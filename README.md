@@ -34,7 +34,7 @@ Cold_Email_Pipeline/
 │   └── follow_up_template.txt
 └── Assets/
     └── Atharva.Resume.pdf
-
+    
 ---
 
 ##  Usage
