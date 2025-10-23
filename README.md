@@ -8,6 +8,9 @@ Automate your job outreach with Python — send **personalized cold emails**, at
 
 This project helps automate cold emailing to HRs and recruiters using **Gmail SMTP**. It reads contact data from a CSV/Excel file, personalizes each email using a template, attaches your resume, and logs results — all while skipping already sent emails.
 
+<img width="1412" height="652" alt="Screenshot 2025-10-23 013702" src="https://github.com/user-attachments/assets/04a5772d-7be1-4c86-9e91-cfb2f3d3c724" />
+
+
 ---
 
 ##  Key Features
